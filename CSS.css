@@ -1,0 +1,8 @@
+
+  body {
+  	 background: url(left.png); position: left;background-repeat: repeat-y;background-attachment: scroll ; 
+   background: url(right.png);  position: right;background-repeat: repeat-y ;background-attachment: scroll; 
+    
+  }
+h1 {color: pink;text-align: left;background-color: black;text-shadow: 4px 4px 10px red; margin-left:5%; margin-right: 5%}
+		p {color: black;text-align: center;text-shadow: 5px 5px 12px red;background: #CD5C5C;} 
